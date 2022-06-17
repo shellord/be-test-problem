@@ -1,0 +1,12 @@
+{
+  "name": "koshi.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform.js",
+  "type": "module",
+  "scripts": {
+    "start": "node transform.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
